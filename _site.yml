@@ -1,1 +1,10 @@
+name: "balemos-website"
+output_dir: "."
+navbar:
+title: "Blaise Lemos Website"
+left:
+    - text: "Home"
+      href: index.html
+    - text: "GIS Work"
+      href: geog13.html
 
