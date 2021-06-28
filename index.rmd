@@ -1,1 +1,9 @@
+---
+title: "About Me"
+---
+  
+<center>
+# Hi, I'm Blaise Lemos.
+</center>
 
+I'm a senior at UCSB pursueing a degree in geography. Geospatial data is incredibly important for many disciplines. 
